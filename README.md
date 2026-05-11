@@ -210,7 +210,7 @@ Bots connect to the server exactly as human clients do. They appear in the onlin
 | Department | Information Technology |
 | Specialization | Software Technology |
 | Course | Network Programming |
-| Term | Second Term, Academic Year 2025 / 2026 |
+| Term | 3rd ,Second Term, Academic Year 2025 / 2026 |
 | Instructor | Dr. Aya Ibrahim |
 | Student | Maryam Eid Abd Elsalam |
 | Student ID | 2320603 |
